@@ -10,7 +10,8 @@ export default function Home() {
         <Head>
           <title>Index</title>
         </Head>
-        <Herosection />
+        <Herosection />      
+        
       </Layout>
      </>
   )
